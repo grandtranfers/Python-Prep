@@ -5,12 +5,13 @@
 
 # 1) Crear una variable que contenga un elemento del conjunto de números enteros y luego imprimir por pantalla si es mayor o menor a cero
 
-# In[4]:
-
-
-
-
-
+# In[4]:    
+num=5
+if num > 0:
+  print( "El numero ", num , "es mayor que Cero")
+else:
+  print( "El numero ", num , "es menor que Cero")
+  
 # 2) Crear dos variables y un condicional que informe si son del mismo tipo de dato
 
 # In[5]:
